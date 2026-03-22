@@ -9,6 +9,8 @@ def greet(name):
 def main():
     greet("Git 초보자")
 
+print("수정햇어요")
+
 if __name__ == "__main__":
     main()
 
